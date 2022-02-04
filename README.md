@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrVicke
-- 👀 I’m interested in full-stack software engineering, game porting, and microarchitecture engineering (SoC)
+- 👀 I’m interested in full-stack software engineering, machine learning, and microarchitecture engineering (SoC)
 - 🌱 I’m currently learning C# and EDA
 - 💞️ I’m not looking to collaborate on anything at the moment
 - 📫 How to reach me: admin@vicke.me, vicke#8486
